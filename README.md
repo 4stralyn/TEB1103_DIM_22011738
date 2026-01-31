@@ -33,12 +33,6 @@ Created by **Aina** for TEB1103 – Data and Information Management.
 ### 📌 Project Overview
 This project involves the creation of a high-scale Relational Database Management System (RDBMS) modeled after MR. D.I.Y.'s retail operations. The system is architected to manage diverse business functions ranging from warehouse logistics and procurement to customer loyalty and audit activities.
 
-### 📁 Repository Contents
-* **`mr_diy_create_tables.sql`**: DDL scripts to initialize the entire schema, including 21 main entities and 44 explosion tables.
-* **`mr_diy_insert_tables.sql`**: DML scripts containing structured sample data for all implemented tables.
-* **`mr_diy_drop_tables.sql`**: Cleanup script using `CASCADE CONSTRAINTS` for safe schema reset.
-* **`mr_diy_current_stock_report.sql`**: Query scripts for inventory management and restocking decisions.
-* **`MrDIY_report.docx`**: Technical documentation containing the Enhanced Entity-Relationship Diagram (EERD) and Data Specifications.
 
 ### 📊 Database Architecture
 The database is built on a complex relational model featuring:
